@@ -1,6 +1,6 @@
 [
   {
-    "remote": "arrow-gitlab",
+    "remote": "gitlab",
     "repository": "android_device_xiaomi_nabu-prebuilt",
     "target_path": "device/xiaomi/nabu-prebuilt",
     "branch": "arrow-13.0"

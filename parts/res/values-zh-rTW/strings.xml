@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!-- Convert by 繁化姬 https://zhconvert.org -->
+<resources>
+    <!-- Ambient settings -->
+    <string name="ambient_enable">啟用環境顯示</string>
+
+    <!-- Dirac settings -->
+    <string name="dirac_enable">啟用米音</string>
+    <string name="dirac_title">米音</string>
+    <string name="dirac_summary">使用米音和 Hi-Fi 來最佳化音質</string>
+    <string name="dirac_headset_title">耳機類型</string>
+    <string name="dirac_hifi_enable_title">啟用 Hi-Fi</string>
+    <string name="dirac_preset_title">聲音預設</string>
+
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">減少噪音和失真，提高音頻品質</string>
+
+    <string name="dirac_headset_default">預設</string>
+    <string name="dirac_headset_earbuds">靈動耳塞式</string>
+    <string name="dirac_headset_in_ear_2013">靈悅入耳式</string>
+    <string name="dirac_headset_piston_1">小米活塞耳機 1</string>
+    <string name="dirac_headset_general">通用耳塞式</string>
+    <string name="dirac_headset_general_inear">通用入耳式</string>
+    <string name="dirac_headset_piston_basic">小米活塞耳機基礎版</string>
+    <string name="dirac_headset_piston_2">小米活塞耳機 2</string>
+    <string name="dirac_headset_piston_standard">小米活塞耳機標準版</string>
+    <string name="dirac_headset_headphone">小米頭戴式耳機</string>
+    <string name="dirac_headset_piston_youth">小米活塞耳機青春版</string>
+    <string name="dirac_headset_piston_color">小米活塞耳機炫彩版</string>
+    <string name="dirac_headset_in_ear">小米圈鐵耳機</string>
+    <string name="dirac_headset_capsule">小米膠囊耳機</string>
+    <string name="dirac_headset_in_ear_pro">小米圈鐵耳機 Pro</string>
+    <string name="dirac_headset_comfort">小米頭戴式耳機輕鬆版</string>
+    <string name="dirac_headset_reduction_noise">小米降噪耳機（Type-C）</string>
+    <string name="dirac_headset_cancelling">小米降噪耳機（3.5mm）</string>
+    <string name="dirac_headset_half_in_ear">小米雙單元半入耳式耳機</string>
+    <string name="dirac_headset_in_ear2">小米圈鐵耳機 2</string>
+    <string name="dirac_headset_earphone_basic">小米活塞耳機基礎款</string>
+    <string name="dirac_headset_earphone">小米活塞耳機</string>
+
+    <string name="dirac_preset_default">預設</string>
+    <string name="dirac_preset_rock">搖滾</string>
+    <string name="dirac_preset_jazz">爵士</string>
+    <string name="dirac_preset_pop">流行</string>
+    <string name="dirac_preset_classical">古典</string>
+    <string name="dirac_preset_hiphop">嘻哈</string>
+    <string name="dirac_preset_blues">藍調</string>
+    <string name="dirac_preset_electronic">電子</string>
+    <string name="dirac_preset_country">鄉村</string>
+    <string name="dirac_preset_dance">舞蹈</string>
+    <string name="dirac_preset_metal">金屬</string>
+
+    <!-- Xiaomi Stylus -->
+    <string name="stylus_title">小米靈感觸控筆</string>
+    <string name="stylus_summary">小米靈感觸控筆的設定選項</string>
+    <string name="stylus_switch_title">啟用小米靈感觸控筆</string>
+    <string name="stylus_switch_summary">啟用此選項後，您便可以使用小米靈感觸控筆</string>
+
+    <!-- Xiaomi Keyboard -->
+    <string name="keyboard_title">小米鍵盤保護殼</string>
+    <string name="keyboard_summary">小米鍵盤保護殼的設定選項</string>
+    <string name="keyboard_switch_title">啟用小米鍵盤保護殼的鍵盤</string>
+    <string name="keyboard_switch_summary">啟用此選項後，您便可以使用小米鍵盤保護殼的鍵盤</string>
+</resources>

@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_nabu.mk
+    $(LOCAL_DIR)/aosp_nabu.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_nabu-eng \
-    arrow_nabu-userdebug \
-    arrow_nabu-user
+    aosp_nabu-eng \
+    aosp_nabu-userdebug \
+    aosp_nabu-user
